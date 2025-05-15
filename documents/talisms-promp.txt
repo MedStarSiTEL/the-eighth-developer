@@ -18,3 +18,6 @@ These files are encapsulated in:
 [file content]
 </TalisDoor>
 
+Use the TalisDemoApp to learn how to use the framework also read the source code and extrapulate from it how to use it
+
+
